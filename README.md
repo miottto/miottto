@@ -2,10 +2,16 @@
 
 ### About Me
 
-I am currently the owner of a bar, a business I have been successfully running for over ten years. Managing the business end-to-end has sparked a deep interest in how data, technology, and business can be integrated to enhance product management. This experience also led me to explore Data Science related technologies
+Quality Assurance Engineer.
+
+With over a decade of experience as an entrepreneur in the hospitality industry, I honed skills in product, team management and customer experience—always striving for quality and attention to detail. Now, I'm leveraging my analytical mindset and problem-solving skills to transition into Quality Assurance, ensuring that digital products deliver exceptional performance and user experience following the best practices in software testing.
+
+Let's connect! 🚀
 
 More details about my professional experience and academic background can be found on my LinkedIn profile.
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
