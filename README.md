@@ -5,7 +5,6 @@
 Hi!👋 I'm a Quality Assurance Engineer and my mission is to ensure that digital products deliver exceptional performance and user experience by following the best practices in software testing.
 
 &nbsp;
-
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33.svg?style=flat&logo=Playwright&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -16,10 +15,7 @@ Hi!👋 I'm a Quality Assurance Engineer and my mission is to ensure that digita
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-
 &nbsp;
-&nbsp;
-
 More details can be found on my LinkedIn profile. Let's connect! 
 &nbsp;
 
