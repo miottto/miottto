@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi!👋 I'm a Quality Assurance Engineer and my mission is to ensure that digital products deliver exceptional performance and user experience by following the best practices in software testing.
+Hi! 👋 I’m a Quality Assurance Engineer focused on improving the way teams build software — ensuring solid processes, reliable products, and a culture of quality across the development lifecycle.
 
 &nbsp;
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
