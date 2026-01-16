@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi! 👋 I’m a Quality Assurance Engineer focused on improving the way teams build software — ensuring solid processes, reliable products, and a culture of quality across the development lifecycle.
+I’m a Quality Assurance Engineer focused on improving the way teams build software; ensuring solid processes, reliable products, and a culture of quality across the development lifecycle.
 
 &nbsp;
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
