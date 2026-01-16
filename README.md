@@ -22,11 +22,3 @@ More details can be found on my LinkedIn profile. Let's connect!
 <div>
 <a href="https://www.linkedin.com/in/miottto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-&nbsp;
-### GitHub Stats 
-<div>
-<a href="https://github.com/miottto">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miottto&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-</div>
-
